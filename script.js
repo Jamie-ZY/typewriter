@@ -1,11 +1,12 @@
 const element = document.getElementById('typewriter');
 const sentences = [
-    'keep&nbsp;it&nbsp;cool', 
-    'keep&nbsp;it&nbsp;aesthetic', 
-    'keep&nbsp;it&nbsp;low-key', 
-    'keep&nbsp;it&nbsp;going', 
-    'keep&nbsp;it&nbsp;simple&nbsp;stupid'
+    'keep it cool', 
+    'keep it aesthetic', 
+    'keep it low-key', 
+    'keep it going', 
+    'keep it simple stupid'
 ];
+
 const colors = ['red', 'green', 'blue', 'purple', 'orange'];
 const bgColors = ['blue', 'orange', 'green', 'red', 'purple'];
 
